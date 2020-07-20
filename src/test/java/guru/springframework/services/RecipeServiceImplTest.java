@@ -2,6 +2,7 @@ package guru.springframework.services;
 
 import com.talbn1.recipe.domain.Recipe;
 import com.talbn1.recipe.repositories.RecipeRepository;
+import com.talbn1.recipe.services.RecipeServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
