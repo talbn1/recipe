@@ -1,5 +1,6 @@
 package com.talbn1.recipe.controllers;
 
+import com.talbn1.recipe.services.RecipeService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ui.Model;
 import org.springframework.stereotype.Controller;
