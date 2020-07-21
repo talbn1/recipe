@@ -1,0 +1,5 @@
+com\talbn1\recipe\controllers\IndexControllerTest.class
+com\talbn1\recipe\RecipeApplicationTests.class
+guru\springframework\services\RecipeServiceImplTest.class
+com\talbn1\recipe\domain\CategoryTest.class
+com\talbn1\recipe\repositories\UnitOfMeasureRepositoryIT.class

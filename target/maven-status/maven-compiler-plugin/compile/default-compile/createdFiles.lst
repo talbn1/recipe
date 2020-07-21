@@ -1,0 +1,14 @@
+com\talbn1\recipe\services\RecipeServiceImpl.class
+com\talbn1\recipe\bootstrap\RecipeBootstrap.class
+com\talbn1\recipe\repositories\UnitOfMeasureRepository.class
+com\talbn1\recipe\repositories\CategoryRepository.class
+com\talbn1\recipe\domain\Notes.class
+com\talbn1\recipe\domain\Difficulty.class
+com\talbn1\recipe\controllers\IndexController.class
+com\talbn1\recipe\domain\Ingredient.class
+com\talbn1\recipe\RecipeApplication.class
+com\talbn1\recipe\domain\UnitOfMeasure.class
+com\talbn1\recipe\repositories\RecipeRepository.class
+com\talbn1\recipe\services\RecipeService.class
+com\talbn1\recipe\domain\Category.class
+com\talbn1\recipe\domain\Recipe.class

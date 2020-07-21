@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.talbn1.recipe.controllers.IndexControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.468 s - in com.talbn1.recipe.controllers.IndexControllerTest
